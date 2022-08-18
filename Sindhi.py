@@ -1,4 +1,3 @@
-<?php
 /**
  * Advanced RajaOngkir API PHP Library
  *
